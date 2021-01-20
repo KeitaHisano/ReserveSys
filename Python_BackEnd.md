@@ -118,7 +118,7 @@ Sqlite3を使用する。
 
 エラーの場合は以下のコマンドにしてみる  
 
-    python manage.py runserver0:8000
+    python manage.py runserver
 
 以下のサイトにアクセスしてみる  
 http://127.0.0.1:8000/  
